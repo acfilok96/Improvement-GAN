@@ -10,7 +10,7 @@ GANs are an exciting and rapidly changing field, delivering on the promise of ge
 
 Generative Adversarial Networks (GANs) are a novel class of deep generative models with significant attention nowadays. GANs learn complex and high-dimensional distribution implicitly over images, audio, and data. However, there exist significant challenges in the training of GNAs like mode collapse, non-convergence, and instability, due to inappropriate design of network architecture, use of objective function, and selection of optimization algorithm. Recently, to address these challenges, several solutions for better optimization of GANs have been investigated based on techniques of re-engineered network architectures, now objective function, and alternative optimization algorithms. To the best of my knowledge, there is no existing survey that has particularly focused on the board and systematic developments of these solutions.
 
-In this project, the several problems on GAN are tried to resolve using a nodel approach.
+In this project, the several problems on GAN are tried to resolve using a novel approach.
 
 Results are given below for various datasets.
 
