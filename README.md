@@ -11,3 +11,8 @@ GANs are an exciting and rapidly changing field, delivering on the promise of ge
 Generated Flower Image:-
 
 ![Alt Generated Flower Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Flower%20Data/Generated%20Images.png)
+
+
+Generated Abstract Image:-
+
+![Alt Generated Abstract Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Abstract%20Image%20Data/Generated%20Abstract%20Images.png)
