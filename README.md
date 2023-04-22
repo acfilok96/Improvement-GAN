@@ -15,6 +15,11 @@ In this project, the several problems on GAN are tried to resolve using a novel 
 Results are given below for various datasets.
 
 
+Generated Mnist Image:-
+
+![Alt Generated Mnist Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Mnist%20Data/generated_mnist_data.png)
+
+
 Generated Anime Image:-
 
 ![Alt Generated Anime Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Animo%20Data/Generated%20Images.png)
