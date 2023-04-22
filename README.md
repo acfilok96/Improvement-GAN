@@ -7,3 +7,6 @@ Generative modeling is an unsupervised learning task in machine learning that in
 GANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models: the generator model that we train to generate new examples, and the discriminator model that tries to classify examples as either real (from the domain) or fake (generated). The two models are trained together in a zero-sum game, adversarial, until the discriminator model is fooled about half the time, meaning the generator model is generating plausible examples.
 
 GANs are an exciting and rapidly changing field, delivering on the promise of generative models in their ability to generate realistic examples across a range of problem domains, most notably in image-to-image translation tasks such as translating photos of summer to winter or day to night, and in generating photorealistic photos of objects, scenes, and people that even humans cannot tell are fake.
+
+
+![Alt text](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Flower%20Data/Generated%20Images.png)
