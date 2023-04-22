@@ -14,6 +14,11 @@ Generated Anime Image:-
 ![Alt Generated Anime Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Animo%20Data/Generated%20Images.png)
 
 
+Generated Celeb Face Image:-
+
+![Alt Generated Celeb Face Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Celeb%20Data/Generated%20Celeb%20Images.png)
+
+
 Generated Flower Image:-
 
 ![Alt Generated Flower Image](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Flower%20Data/Generated%20Images.png)
