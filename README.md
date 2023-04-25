@@ -21,7 +21,8 @@ Generated Mnist Image:-
 
 Generated Mnist Video:-
 
-https://user-images.githubusercontent.com/88615645/234378268-e95504f7-341f-42d6-a33a-574c34cf3615.mp4
+https://user-images.githubusercontent.com/88615645/234378842-ff6d6ca9-ffc9-41d2-8ce2-8d2241d244d8.mp4
+
 
 Generated Anime Image:-
 
