@@ -21,8 +21,7 @@ Generated Mnist Image:-
 
 Generated Mnist Video:-
 
-![Alt Generated Mnist Video](https://github.com/acfilok96/Improvement-On-Generative-Adversarial-Network/blob/main/Files/Mnist%20Data/mnist_two.mp4)
-
+https://user-images.githubusercontent.com/88615645/234378268-e95504f7-341f-42d6-a33a-574c34cf3615.mp4
 
 Generated Anime Image:-
 
